@@ -1,13 +1,4 @@
-task 2: code with comments
-
-
-Summarise
-
-(s) Jamie Gatehouse
-
-​
-(s) Jamie Gatehouse​
-#include <iostream>
+​#include <iostream>
 #include <fstream>
 #include <sys/types.h>
 #include <string>
