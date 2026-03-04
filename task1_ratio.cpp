@@ -1,28 +1,8 @@
-task 1 final code with comments
-
-
-Summarise
-
-(s) Jamie Gatehouse
-
-​
-(s) Jamie Gatehouse​
-// Standard input/output stream library
 #include <iostream>
-
-// File stream library (not used in this code but included)
 #include <fstream>
-
-// System data types
 #include <sys/types.h>
-
-// String handling
 #include <string>
-
-// Math functions (sqrt, pow, etc.)
 #include <cmath>
-
-// Custom owl robot library
 #include "../owl.h"
 
 using namespace std;
@@ -210,3 +190,4 @@ int main()
         waitKey(30);
     }
 }
+
